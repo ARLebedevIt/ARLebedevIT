@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://i.ibb.co/g6RgyYB/GHCover.png" width="700px" /> </p> 
 
 <h1 align="center">Hi, I'm Alexander Lebedev</h1>
-<h3 align="center">A Frontend developer and artist from Russia</h3>
+<h3 align="center">A Creative web developer and artist from Russia</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=arlebedevit&label=Profile%20views&color=0e75b6&style=flat" alt="arlebedevit" />
