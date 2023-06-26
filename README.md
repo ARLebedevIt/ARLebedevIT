@@ -53,6 +53,10 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="vuejs"/>
 </a>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arlebedevit&show_icons=true&theme=dark&title_color=ebebeb&text_color=ebebeb&hide_border=true&locale=en&layout=compact" alt="arlebedevit" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arlebedevit&show_icons=true&theme=dark&title_color=ebebeb&text_color=ebebeb&hide_border=true&locale=en&layout=compact" alt="arlebedevit" />
+</p>
+<p align="center">
+  <img align="center" src="https://www.codewars.com/users/ARLebedevIt/badges/large" alt="arlebedevit" />
+  <img align="center" src="https://leetcode-stats-six.vercel.app/api?username=ARLebedevIt&theme=dark" alt="arlebedevit" />
 </p>
