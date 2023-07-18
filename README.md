@@ -7,7 +7,7 @@
 <a align="center" href="https://wakatime.com/@d50225ab-63d0-458e-81f4-e50431c53a9b"><img src="https://wakatime.com/badge/user/d50225ab-63d0-458e-81f4-e50431c53a9b.svg" alt="Total time coded since Jun 9 2023" /></a>
 </p>
 
-- ### I’m currently learning **React, Vue, TS, Three.js and others**
+- ### I’m currently learning **Alghoritms and Data Structures**
 - ### You can ask me about **everything**
 - ### How to reach me <a href="mailto:arlebedevit@gmail.com"><img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
