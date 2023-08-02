@@ -57,6 +57,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arlebedevit&show_icons=true&theme=dark&title_color=ebebeb&text_color=ebebeb&hide_border=true&locale=en&layout=compact" alt="arlebedevit" />
 </p>
 <p align="center">
-  <img align="center" src="https://www.codewars.com/users/ARLebedevIt/badges/large" alt="arlebedevit" />
-  <img align="center" src="https://leetcode-stats-six.vercel.app/api?username=ARLebedevIt&theme=dark" alt="arlebedevit" />
+  <a href="https://leetcode.com/arlebedevit/" target="_blank" rel="noreferrer"> 
+  <img align="center" src="https://leetcard.jacoblin.cool/ARLebedevIt?ext=heatmap" />
+</a>
+</p>
+<p align="center">
+  <a href="https://www.codewars.com/users/ARLebedevIt" target="_blank" rel="noreferrer"><img align="center" src="https://www.codewars.com/users/ARLebedevIt/badges/large" alt="arlebedevit" /></a>
 </p>
